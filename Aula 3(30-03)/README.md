@@ -6,5 +6,5 @@ Apesar de não ser tão usual no dia-a-dia de uma pessoa, o fato comum de existi
 principalmente porque sou iniciante nesta linguagem. Desenvolvi na IDE Eclipse, que é o software de sugestão do bootcamp.
 Estes programas se encontram na pasta: ExercícosAula3.
 Já dentro desta pasta possui uma outra pasta chamada src, dentro deste pacote chamado ExercícosAlgaritmos, onde estão como classes. Cada exercício possui
-a sua prórpia classe, então a classe do exercício 1 chama Exercíco1, e assim por diante.
+a sua prórpia classe, então a classe do exercício 1 chama Exercício1, e assim por diante.
 Basta acessar as classes e você verá como trabalhei cada programa.
