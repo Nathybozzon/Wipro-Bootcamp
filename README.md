@@ -1,7 +1,7 @@
 # Wipro-Bootcamp
 Este repositório foi criado com o intuito de armazenar todas as atividades propostas pelo Bootcamp Wipro que está sendo ministrado pela Gama Academy.
 
-Para treino da ferramenta git, este repositório foi criado através do git e fiz um commit com este arquivo que digitei, que é markdown, adicionando as informações pedidas pela professora,
+Para treino da ferramenta Git Bash, este repositório foi criado através do git e fiz um commit com este arquivo que digitei, que é markdown, adicionando as informações pedidas pela professora,
 que seriam: 
 Meu nome;
 Meu prato preferido;
